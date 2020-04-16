@@ -1,0 +1,7 @@
+"vim.hlsearch": false,
+"vim.leader": "<space>",
+"vim.easymotion": true,
+"vim.easymotionKeys": "sdfghjkl",
+"vim.disableAnnoyingNeovimMessage": true,
+"vim.useSystemClipboard": true,
+"vim.searchHighlightColor": "rgba(255, 235, 60, 0.4)"
